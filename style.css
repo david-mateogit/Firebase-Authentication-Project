@@ -1,0 +1,9 @@
+.navigation {
+  background-color: #e3696e;
+}
+
+@media screen and (max-width: 720px) {
+  .container {
+    max-width: unset !important;
+  }
+}
